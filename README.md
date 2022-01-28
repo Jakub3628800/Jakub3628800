@@ -14,7 +14,7 @@ I previously worked in:
 ## What are his interests?
 - Python programming language
 - Software Architecture & Design
-- GNU/Linux - 2022 is the year of the linux desktop!
+- GNU/Linux - get_current_year() + "is the year of the linux desktop!"
 - CI/CD 
 - Developer productivity
 
