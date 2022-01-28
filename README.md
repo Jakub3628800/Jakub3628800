@@ -11,19 +11,18 @@ I previously worked in:
 - Falcon.io
 - PlantJammer
 
-## What does he like?
+## What are his interests?
 - Python programming language
 - Software Architecture & Design
 - GNU/Linux - 2022 is the year of the linux desktop!
 - CI/CD 
 - Developer productivity
 
-## No, what does he really like?
+## No, what are really his interests?
 - eh, the above - really :heavy_exclamation_mark:
 - rock climbing
 - running 🏃‍♂️
 - :coffee:
-- :pizza:
 
 ## Can I contact him?
 I am happy to reply if you reach out to me. Please note I am not currently looking for a job, unless it meets all my interests and pays really well.
