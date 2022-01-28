@@ -21,8 +21,9 @@ I previously worked in:
 ## No, what does he really like?
 - eh, the above - really :heavy_exclamation_mark:
 - rock climbing
-- running
+- running 🏃‍♂️
 - :coffee:
+- :pizza:
 
 ## Can I contact him?
 I am happy to reply if you reach out to me. Please note I am not currently looking for a job, unless it meets all my interests and pays really well.
