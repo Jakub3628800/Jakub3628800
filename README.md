@@ -5,11 +5,11 @@ Hello World! 👋
 ## Who Is this person?
 I am a Software Developer currently located in Prague, but I previously worked and studied in Copenhagen, Denmark.
 ## Where did he work? 
-I currently work in @purestorage
+I currently work in [Pure Storage](https://www.purestorage.com/)
 
 I previously worked in:
-- Falcon.io
-- PlantJammer
+- [Falcon.io](https://www.falcon.io/)
+- [PlantJammer](https://www.plantjammer.com/)
 
 ## What are his interests?
 - Python programming language
