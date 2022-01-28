@@ -5,7 +5,7 @@ Hello World! 👋
 ## Who Is this person?
 I am a Software Developer currently located in Prague, but I previously worked and studied in Copenhagen, Denmark.
 ## Where did he work? 
-I currently work in PureStorage
+I currently work in @purestorage
 
 I previously worked in:
 - Falcon.io
@@ -25,7 +25,7 @@ I previously worked in:
 - :coffee:
 
 ## Can I contact him?
-I am happy to reply if you reach out to me. Please note I am not currently looking for a job, unless it meets all my interests and pays really well.
+I am happy to reply if you reach out to me. Please note I am not currently looking for a job, unless it meets all my interests.
 
 jakubk@jakubk.cz
 
