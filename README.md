@@ -18,9 +18,4 @@ I previously worked in:
 - running 🏃‍♂️
 - :coffee:
 
-## Can I contact him?
-I am happy to reply if you reach out to me. Please note I am not currently looking for a job.
-
-jakubk@jakubk.cz
-
 https://www.linkedin.com/in/jakub-kriz-720/
