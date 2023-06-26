@@ -9,3 +9,6 @@ I previously worked in:
 - [PlantJammer](https://www.plantjammer.com/)
 
 https://www.linkedin.com/in/jakub-kriz-720/
+
+
+![alt text](https://github.com/Jakub3628800/Jakub3628800/blob/master/q.png?raw=true)
