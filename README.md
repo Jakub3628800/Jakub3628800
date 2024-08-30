@@ -1,7 +1,9 @@
-https://jakubk.cz/
+### Hello Hello World, I'm Jakub 👋
 
-fav tech:
-- async Python
-- desktop Linux
-- PostgreSQL
-- Kafka
+- 🚀 Software Engineer passionate about Python, Linux, and system design
+- 🛠️ Experienced in CI/CD, testing infrastructure, and developer tools
+    -  Python productivity article coming soon
+- 🖥️ i3, vim, and productivity tools enthusiast
+    - [.dotfiles](https://github.com/Jakub3628800/dots)
+- 🐳 Tech stack: Python, PostgreSQL, Docker, Redis, Kafka, Go
+- 🌱 Always learning and optimizing
