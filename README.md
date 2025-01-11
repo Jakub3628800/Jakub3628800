@@ -1,5 +1,5 @@
-- 🚀 Python, Linux, and system design
+- 🚀 Python, Linux, System design
 - 🛠️ CI/CD, testing infrastructure, and developer tools
-- 🖥️ i3, vim, linux desktop ftw (forever x11)
+- 🖥️ i3, nvim, wezterm, x11
     - [.dotfiles](https://github.com/Jakub3628800/dots)
-- 🐳 Fav tech stack: Python, PostgreSQL, Docker, Redis, Kafka, Go
+- 🐳 Python, PostgreSQL, Docker, Redis, Kafka, Go
