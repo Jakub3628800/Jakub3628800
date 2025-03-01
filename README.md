@@ -1,5 +1,5 @@
 - 🚀 Python, Linux, System design
 - 🛠️ CI/CD, testing infrastructure, and developer tools
-- 🖥️ i3, nvim, wezterm, x11
+- 🖥️ sway, nvim, wezterm
     - [.dotfiles](https://github.com/Jakub3628800/dots)
 - 🐳 Python, PostgreSQL, Docker, Redis, Kafka, Go
