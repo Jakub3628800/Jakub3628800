@@ -1,5 +1,5 @@
-- 🚀 Python, Linux, System design
-- 🛠️ CI/CD, testing infrastructure, and developer tools
-- 🖥️ sway, nvim, wezterm
-    - [.dotfiles](https://github.com/Jakub3628800/dots)
-- 🐳 Python, PostgreSQL, Docker, Redis, Kafka, Go
+- 🚀 Python, Infrastructure, System design
+- 🛠️ CI/CD, testing, developer tools
+- 🖥️ Desktop linux is the tech of $(date +%Y)
+    - nvim, sway, wezterm
+- 🐳 PostgreSQL, Redis, Kafka, Go
